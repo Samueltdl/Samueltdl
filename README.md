@@ -8,8 +8,9 @@
 </div>
 
 <div align="right">
+  <a href="https://github.com/samueltdl">
   <img  height="50em" width="50em" src="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif" >
- </div>
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
