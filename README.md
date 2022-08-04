@@ -11,6 +11,5 @@
   <img align="center" alt="Samuel-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://github.com/samueltdl">
-  <img align="right" alt="gif-raze" height="50" width="60" src="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif">
+  <img align="right" alt="gif-raze" height="100" width="100" allow="autoplay" src="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif">
 </div>
