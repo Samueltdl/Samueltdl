@@ -8,7 +8,7 @@
 </div>
 
 <div align="right">
-  <img src="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif" >
+  <img  height="50em" width="50em" src="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif" >
  </div>
   
 <div style="display: inline_block"><br>
