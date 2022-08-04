@@ -8,7 +8,7 @@
 </div>
 
 <div align="right">
-  <a href="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif">
+  <img src="https://c.tenor.com/mVmgrmhBgJoAAAAC/raze-valorant.gif" >
  </div>
   
 <div style="display: inline_block"><br>
